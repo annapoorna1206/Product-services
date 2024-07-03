@@ -1,0 +1,59 @@
+.clr1 li{
+    display:inline ;
+    color: white;
+    background-color: brown;
+    font-size: 20px;
+
+}
+h1{
+    text-align: center;
+}
+.info{
+    text-align: end;
+    text-decoration: underline;
+}
+.products{
+    color:brown;
+    
+}
+.class1{
+    background-color: aqua;
+    
+}
+.aboutus{
+    color:brown;
+}
+.services{
+    color:brown
+}
+.click{
+    text-align:end;
+    text-decoration: underline;
+}
+.contactus{
+    color:brown;
+}
+.forms{
+    text-align: center;
+}
+button{
+   background-color: black;
+   color:white;
+}
+.image{
+    display:flex;
+}
+.servicesimage{
+   display:flex;
+   gap:40px;
+}
+.footer{
+    background-color:rgb(3, 3, 49);
+    color:white;
+}
+.but:hover{
+    background-color: grey;
+}
+.but2:hover{
+    background-color: red;
+}
